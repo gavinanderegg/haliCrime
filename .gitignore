@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Rprofile
+.DS_Store
+/build/
+build_*/
+build-*/
+*-build/
+*.Rbuildignore
+.Rbuildignore
+string.Rproj
+*.dcf
